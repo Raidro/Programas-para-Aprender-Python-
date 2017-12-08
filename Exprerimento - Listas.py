@@ -19,5 +19,5 @@ print "\nListas de 0 : 5: ", lista[0:6]
 
 lista.remove(4)
 print "\nItem Removido: ", lista
-print "================================="
+
 
