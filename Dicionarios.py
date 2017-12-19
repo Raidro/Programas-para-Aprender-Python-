@@ -16,5 +16,4 @@ dicionario['item'] = 'conteudo modificado'
 print  len(dicionario)
 print  dicionario.keys()
 print  dicionario
-
 #======================================#
