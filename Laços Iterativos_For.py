@@ -17,4 +17,4 @@ for i in lista:
 
 dicionario = {'item1': 123, 'item2': 345 }
 for i in dicionario:
-    print '\nDicionario: {%s: %s}' % (i, dicionario[i])
+    print '\nDicionario: {' + i, ':', dicionario[i], '}'
