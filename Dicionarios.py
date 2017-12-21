@@ -13,7 +13,7 @@ dicionario = {}
 dicionario['item'] = 'conteudo' # temos um indice e uma string
 dicionario[0] = 'outro conteudo' # novamente temos, um indice e uma string
 dicionario['item'] = 'conteudo modificado'
-print  len(dicionario)
-print  dicionario.keys()
-print  dicionario
+print  (len(dicionario))
+print  (dicionario.keys())
+print  (dicionario)
 #======================================#
