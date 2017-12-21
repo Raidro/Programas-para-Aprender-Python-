@@ -18,11 +18,11 @@ dicionario = {'chave': 'valor1', 'chave2': 'valor'}
 
 #posso mandar imprimir as chaves que existem
 
-print dicionario.keys()
+print (dicionario.keys())
 
 # assim como posso imprimir os valores que existem
 
-print dicionario.values()
+print (dicionario.values())
 
 
 

@@ -1,8 +1,8 @@
 a = 1
-print a
+print (a)
 a = 'String de teste'
-print a
+print (a)
 a = ['teste', 'teste2', 'teste3']
-print a
+print (a)
 a = {'nome': 'valor1', 'nome2': 'valor2'}
-print a
+print (a)

@@ -5,7 +5,7 @@
 
 
 for i in range(1,11):
-    print i
+    print (i)
 
 
 # for usando lista e dicionario
@@ -13,8 +13,8 @@ for i in range(1,11):
 
 lista = ['item1', 'item2']
 for i in lista:
-    print 'Lista: ' + i
+    print ('Lista: ' + i)
 
 dicionario = {'item1': 123, 'item2': 345 }
 for i in dicionario:
-    print '\nDicionario: {' + i, ':', dicionario[i], '}'
+    print ('\nDicionario: {' + i, ':', dicionario[i], '}')
